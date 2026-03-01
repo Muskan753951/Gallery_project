@@ -1,22 +1,18 @@
-Image Gallery Web Application
+📸 Image Gallery Web Application
 
-A responsive and dynamic image gallery built using React.js and Tailwind CSS. The application fetches images from the Unsplash API and provides smooth navigation with optimized performance.
+A responsive and dynamic image gallery built using React.js and Tailwind CSS.
+The application fetches images from the Unsplash API and provides smooth navigation with optimized performance.
 
-Features
+🚀 Features
 
-Dynamic image fetching using Unsplash API
+✔ Dynamic image fetching using Unsplash API
+✔ Lazy loading for performance optimization
+✔ Previous and Next navigation
+✔ Clickable images redirecting to Unsplash
+✔ Fully responsive design
+✔ Reusable component-based architecture
 
-Lazy loading for performance optimization
-
-Previous and Next navigation functionality
-
-External redirection to Unsplash on image click
-
-Fully responsive design
-
-Clean and reusable component structure
-
-Tech Stack
+🛠 Tech Stack
 
 React.js
 
@@ -28,14 +24,11 @@ Vite
 
 Unsplash API
 
-Installation & Setup
+⚙ Installation
+git clone <your-repo-link>
+npm install
+npm run dev
 
-Clone the repository
+🎯 Project Objective
 
-Run npm install
-
-Start the development server using npm run dev
-
-Project Purpose
-
-This project was built to practice API integration, performance optimization techniques like lazy loading, and modern frontend development using React and Tailwind CSS.
+This project was built to practice API integration, lazy loading, state management, and modern frontend development using React and Tailwind CSS.
