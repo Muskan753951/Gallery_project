@@ -1,16 +1,41 @@
-# React + Vite
+Image Gallery Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and dynamic image gallery built using React.js and Tailwind CSS. The application fetches images from the Unsplash API and provides smooth navigation with optimized performance.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dynamic image fetching using Unsplash API
 
-## React Compiler
+Lazy loading for performance optimization
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Previous and Next navigation functionality
 
-## Expanding the ESLint configuration
+External redirection to Unsplash on image click
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fully responsive design
+
+Clean and reusable component structure
+
+Tech Stack
+
+React.js
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+Vite
+
+Unsplash API
+
+Installation & Setup
+
+Clone the repository
+
+Run npm install
+
+Start the development server using npm run dev
+
+Project Purpose
+
+This project was built to practice API integration, performance optimization techniques like lazy loading, and modern frontend development using React and Tailwind CSS.
